@@ -16,11 +16,13 @@ body{
 div.logo {
     width: 100px;
     width: auto;
+    text-indent: 2%;
 }
 
-.encabezado p{
+.encabezado h3{
     font-weight: bold;
     color: #111;
+    text-indent: 2%;
 }
 
 .encabezado a{
@@ -29,10 +31,12 @@ div.logo {
 
 .parrafo p {
     color: grey;
+    text-indent: 2%;
 }
 
 .parrafo-grande p {
     color: #474747;
+    text-indent: 2%;
 }
 
 .logo img{
@@ -42,7 +46,8 @@ div.logo {
 
 .logo-portada img{
     width: 100%;
-    border-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 
 .logo-avatar img{
