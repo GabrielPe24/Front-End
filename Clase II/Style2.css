@@ -1,0 +1,17 @@
+html, body{
+    background: grey;
+}
+
+.link{
+    color: blue;
+    background: red;
+    display: block;
+}
+
+.box{
+    background: red;
+    height: 100%;
+    width: auto;
+    border: 5px solid yellow;
+}
+

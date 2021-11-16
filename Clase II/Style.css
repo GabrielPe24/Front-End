@@ -1,0 +1,49 @@
+
+/* Selección Elementos */
+body{
+    background-color: grey;
+    font-family: "Roboto";
+}
+
+nav{
+    letter-spacing: 5px;
+    font-weight: bold;
+}
+
+/* Selección ID */
+
+#myid{
+    color: green;
+}
+
+a{
+    text-decoration: none;
+}
+
+p.parrafo{
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+div.button{
+    
+}
+
+div.button button {
+    background-color: red;
+    opacity: 5px;
+    border: none;
+    border-radius: 5px;
+    padding: TOP;
+}
+
+div.tortuga {
+    width: 100%;
+    height: auto;
+}
+
+.tortuga img{
+    width: 25%;
+    border-radius: 15px;
+}
+
